@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Movie Sorter
- * Description: Sorting movies based od the date, imdb rating, or views count
+ * Description: Sorting movies by date, imdb rating, or views count
  * Author:      MDj21
  * Version:     1.0.0
  */
