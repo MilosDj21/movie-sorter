@@ -20,7 +20,6 @@ class MovieSorter {
   }
 
   function parseShortcode() {
-
     $selected = null;
     if (isset($_GET["selectedSorter"])) {
       $selected = $_GET["selectedSorter"];
